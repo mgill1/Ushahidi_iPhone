@@ -113,5 +113,7 @@
 		<string>armv6</string>
 		<string>armv7</string>
 	</array>
+	<key>New item</key>
+	<string></string>
 </dict>
 </plist>
