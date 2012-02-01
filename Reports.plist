@@ -17,7 +17,7 @@
 	<key>## VISIBILITY INFORMATION ##</key>
 	<string>########################## VISIBILITY INFORMATION ##########################</string>
 	<key>AppStoreURL</key>
-	<string>http://itunes.apple.com/app/ushahidi-ios/id410609585</string>
+	<string>http://itunes.apple.com/ca/app/uofa-reports/id497312413</string>
 	<key>BitlyApiKey</key>
 	<string>R_5ca9804d3e3653daf4500968dbdc61ae</string>
 	<key>BitlyLogin</key>
@@ -51,6 +51,8 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1.12</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MapURL</key>

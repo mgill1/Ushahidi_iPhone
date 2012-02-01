@@ -2275,7 +2275,6 @@
 		3EFC3DDA13A6333900CCA185 /* BaseSortTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EFC3DD813A6333900CCA185 /* BaseSortTableViewController.m */; };
 		3EFC3DDD13A6334400CCA185 /* BaseMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EFC3DDC13A6334400CCA185 /* BaseMapViewController.m */; };
 		3EFC3DDE13A6334400CCA185 /* BaseMapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EFC3DDC13A6334400CCA185 /* BaseMapViewController.m */; };
-		8E441DCA14CCF41F00C791CE /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E441DC914CCF41F00C791CE /* Entitlements.plist */; };
 		8EFF6B95149C462C00D12D7D /* blank.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E862A421222BD09001DE141 /* blank.png */; };
 		8EFF6B96149C462C00D12D7D /* location.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E862A461222BD09001DE141 /* location.png */; };
 		8EFF6B97149C462C00D12D7D /* arrow_down.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E862A491222BD09001DE141 /* arrow_down.png */; };
@@ -5743,7 +5742,6 @@
 				8EFF6D3B149C47D400D12D7D /* Logo_iPad.png in Resources */,
 				8EFF6D3C149C47D400D12D7D /* Logo_iPhone.png in Resources */,
 				8EFF6D3D149C47D400D12D7D /* Logo_iPhone@2x.png in Resources */,
-				8E441DCA14CCF41F00C791CE /* Entitlements.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
